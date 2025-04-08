@@ -5,6 +5,6 @@ public class Main {
         System.out.println(getMessage());
     }
     private static String getMessage() {
-        return "Everything is okay";
+        return "new massage!";
     }
 }
